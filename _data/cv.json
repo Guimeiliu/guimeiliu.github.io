@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Guimei Liu (刘桂梅)",
+    "email": "liuguimei20@mails.ucas.ac.cn",
+    "phone": "",
+    "website": "https://guimeiliu.github.io",
+    "summary": "M.S. candidate in Astrophysics at Shanghai Astronomical Observatory, UCAS. Research interests: observational astrophysics, machine learning, galaxy & open cluster formation and evolution.",
+    "location": {
+      "address": "80 Nandan Road, Xuhui District",
+      "postalCode": "200030",
+      "city": "Shanghai",
+      "countryCode": "CN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0002-4686-8115",
+        "url": "https://orcid.org/0009-0002-4686-8115"
+      },
+      {
+        "network": "GitHub",
+        "username": "guimeiliu",
+        "url": "https://github.com/guimeiliu"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Shanghai Astronomical Observatory, CAS",
+      "position": "Master's Researcher",
+      "website": "http://www.shao.ac.cn/",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "summary": "Identification and characterization of multi-cluster systems in the Milky Way. Advisors: Prof. Li Chen, Prof. Jing Zhong.",
+      "highlights": [
+        "Membership identification using Gaia DR2/EDR3 data with HDBSCAN, pyUPMASK",
+        "Distance correction, kinematics and orbit analysis, derivation of physical properties",
+        "Master's thesis leading to first-author paper (in preparation)"
+      ]
+    },
+    {
+      "company": "Shanghai Astronomy Museum (Branch of Shanghai Science and Technology Museum)",
+      "position": "Research Collaborator",
+      "website": "",
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Collaborated with Xingmei Shan on summarizing recent progress in the study of open cluster groups in the Milky Way.",
+      "highlights": [
+        "Contributed to second-author paper accepted by Progress in Astronomy"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "Astrophysics, Shanghai Astronomical Observatory",
+      "studyType": "M.S.",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "gpa": "3.73 / 4.0",
+      "courses": []
+    },
+    {
+      "institution": "China West Normal University",
+      "area": "Physics, School of Physics and Space Science",
+      "studyType": "B.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2019-07-01",
+      "gpa": "2.58 / 4.0",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "HDBSCAN", "KMeans", "pyUPMASK"]
+    },
+    {
+      "name": "Spectrum Processing",
+      "level": "",
+      "keywords": ["IRAF", "PyRAF"]
+    },
+    {
+      "name": "Simulation",
+      "level": "",
+      "keywords": ["Nbody6++GPU"]
+    },
+    {
+      "name": "Platforms",
+      "level": "",
+      "keywords": ["macOS", "Linux"]
+    }
+  ],
+  "languages": [
+    { "language": "Chinese", "fluency": "Native" },
+    { "language": "English", "fluency": "Professional working proficiency" }
+  ],
+  "interests": [
+    { "name": "Observational Astrophysics" },
+    { "name": "Machine Learning" },
+    { "name": "Galaxy Formation and Evolution" },
+    { "name": "Open Cluster Formation and Evolution" },
+    { "name": "Star Formation" }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "New Open-cluster Candidates Found in the Galactic Disk Using Gaia DR2/EDR3 Data",
+      "publisher": "The Astrophysical Journal Supplement Series (ApJS), 260, 8",
+      "releaseDate": "2022-01-01",
+      "website": "https://iopscience.iop.org/article/10.3847/1538-4365/ac5c44",
+      "summary": "He, Z., Li, C., Zhong, J., Liu, G. et al."
+    },
+    {
+      "name": "Recent Advances in the Study of Binary Star Clusters and Cluster Groups in the Milky Way",
+      "publisher": "Progress in Astronomy (Accepted)",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "SHAN Xing-mei, LIU Gui-mei, ZHONG Jing et al."
+    },
+    {
+      "name": "Multi-cluster systems in the Milky Way (first-author, in preparation)",
+      "publisher": "In preparation",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Liu, G. et al. Master's thesis work."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Probing a complex of triple cluster groups",
+      "event": "Cluster Formation and Evolution Seminar",
+      "date": "2023-03-01",
+      "location": "Shanghai, China",
+      "description": "Oral talk"
+    },
+    {
+      "name": "A hands-on project about instructing high school students in practice of astronomy science research",
+      "event": "4th Shaw-IAU Workshop on Astronomy for Education",
+      "date": "2022-11-01",
+      "location": "",
+      "description": "Poster"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Guiding high school students in astronomical scientific research",
+      "institution": "Shanghai Youth Science Innovation Practice Workstation",
+      "date": "2020-01-01",
+      "role": "Mentor (2020–2023)",
+      "description": ""
+    },
+    {
+      "course": "Volunteer Lecturer",
+      "institution": "6th Scientific Community of the Chinese Academy of Sciences",
+      "date": "2023-10-01",
+      "role": "Science Outreach",
+      "description": "Oct. 2023"
+    },
+    {
+      "course": "Volunteer Lecturer",
+      "institution": "19th Public Science Day of the Chinese Academy of Sciences",
+      "date": "2023-05-01",
+      "role": "Science Outreach",
+      "description": "May 2023"
+    }
+  ],
+  "portfolio": []
+}
