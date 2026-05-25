@@ -42,8 +42,8 @@ author:
   orcid            : "https://orcid.org/0009-0002-4686-8115"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/guimei.liu.1/bibliography/public/"
+  researchgate     : "https://www.researchgate.net/profile/Guimei-Liu-2?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
