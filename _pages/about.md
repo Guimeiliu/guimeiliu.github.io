@@ -10,6 +10,7 @@ redirect_from:
 Hello! I am **Guimei Liu (刘桂梅)**, a PhD student in Astrophysics at the [Xinjiang Astronomical Observatory](http://english.xao.ac.cn/), University of Chinese Academy of Sciences, and also a joint study student at the [University of Vienna](https://www.univie.ac.at/).
 
 My research focuses on the **hierarchical formation and dynamical evolution of star clusters, spanning from the Milky Way to nearby galaxies**. I am deeply interested in the kinematic history of primordial open cluster groups and binary clusters, including their mutual tidal interactions and dynamical traceback. A core theme of my work is feedback-driven star formation, specifically how stellar feedback and sequential supernova explosions trigger star formation and shape large-scale gas structures in the interstellar medium.
+
 Recent Research
 ===============
 
