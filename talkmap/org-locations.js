@@ -5,6 +5,11 @@ var addressPoints = [
     102.7169061
   ],
   [
+    "XAO seminar<br />XAO seminar; Urumqi, Xinjiang, China",
+    43.8244074,
+    87.6139038
+  ],
+  [
     "2024 Annual Workshop on 'Structure, Formation and Evolution of Star Clusters'<br />2024 Annual Workshop on 'Structure, Formation and Evolution of Star Clusters'; Hangzhou, Zhejiang, China",
     30.2489634,
     120.2052342

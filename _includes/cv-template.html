@@ -70,6 +70,96 @@
     line-height: 1.4;
     color: var(--global-text-color);
   }
+
+  .cv-education-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 8px 0;
+    border-bottom: 1px dashed var(--global-border-color);
+    gap: 15px;
+  }
+  
+  @media (max-width: 768px) {
+    .cv-education-item {
+      flex-direction: column;
+      gap: 5px;
+      padding: 10px 0;
+    }
+  }
+
+  .cv-education-area {
+    flex: 1.5;
+    font-weight: bold;
+    color: var(--global-text-color);
+  }
+
+  .cv-education-institution {
+    flex: 2;
+    font-style: italic;
+    color: var(--global-text-color);
+    white-space: nowrap;
+  }
+
+  .cv-education-date {
+    flex: 1;
+    text-align: right;
+    color: var(--global-text-color-light);
+    white-space: nowrap;
+    font-weight: bold;
+  }
+
+  @media (max-width: 768px) {
+    .cv-education-date {
+      text-align: left;
+    }
+  }
+
+  .cv-conference-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 8px 0;
+    border-bottom: 1px dashed var(--global-border-color);
+    gap: 15px;
+  }
+  
+  @media (max-width: 768px) {
+    .cv-conference-item {
+      flex-direction: column;
+      gap: 5px;
+      padding: 10px 0;
+    }
+  }
+
+  .cv-conference-info {
+    flex: 6;
+    color: var(--global-text-color);
+    line-height: 1.4;
+  }
+
+  .cv-conference-date {
+    flex: 1.5;
+    text-align: right;
+    color: var(--global-text-color-light);
+    white-space: nowrap;
+    font-weight: bold;
+  }
+
+  @media (max-width: 768px) {
+    .cv-conference-date {
+      text-align: left;
+    }
+  }
+
+  .cv-conference-detail {
+    font-size: 0.9em;
+    font-style: italic;
+    color: var(--global-text-color-light);
+    margin-top: 4px;
+    padding-left: 10px;
+    border-left: 2px solid var(--global-base-color);
+  }
 </style>
 
 <div class="cv-container">
@@ -133,14 +223,10 @@
     <h2>Education</h2>
     <ul class="cv-list">
       {% for education in cv.education %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ education.area }}</div>
-          <div class="cv-item-date">{{ education.endDate }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ education.institution }}</div>
-        </div>
+      <li class="cv-education-item">
+        <div class="cv-education-area">{{ education.area }}</div>
+        <div class="cv-education-institution">{{ education.institution }}</div>
+        <div class="cv-education-date">{{ education.endDate }}</div>
       </li>
       {% endfor %}
     </ul>
@@ -150,27 +236,27 @@
   {% if cv.conferences_activities.size > 0 %}
   <!-- Conferences & Activities -->
   <div class="cv-section">
-    <h2>Conferences & Activities</h2>
+    <h2>
+      Conferences &amp; Activities
+      <a href="/talkmap.html" class="btn btn--primary" style="margin: 0 0 0 12px; font-size: 0.55em; padding: 5px 10px; border-radius: 4px; display: inline-flex; align-items: center; gap: 4px; vertical-align: middle; text-decoration: none; font-weight: 500; text-transform: none; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+        <i class="fas fa-map-marked-alt"></i> Talk Map
+      </a>
+    </h2>
     <ul class="cv-list">
       {% for item in cv.conferences_activities %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ item.name }}</div>
-          <div class="cv-item-date">{{ item.date }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">
-            <strong>{{ item.type }}</strong>
-            {% if item.location %}
-            &nbsp;·&nbsp; <i class="fas fa-map-marker-alt" style="color: var(--global-base-color); margin-right: 4px; font-size: 0.9em;"></i>{{ item.location }}
-            {% endif %}
-          </div>
+      <li class="cv-conference-item">
+        <div class="cv-conference-info">
+          <strong>{{ item.type }}</strong>, {{ item.name }}
+          {% if item.location %}
+          &nbsp;·&nbsp; <i class="fas fa-map-marker-alt" style="color: var(--global-base-color); margin-right: 4px; font-size: 0.9em;"></i>{{ item.location }}
+          {% endif %}
           {% if item.title %}
-          <div class="cv-item-detail">
+          <div class="cv-conference-detail">
             Report Title: "{{ item.title }}"
           </div>
           {% endif %}
         </div>
+        <div class="cv-conference-date">{{ item.date }}</div>
       </li>
       {% endfor %}
     </ul>
