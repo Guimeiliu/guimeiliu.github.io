@@ -11,6 +11,12 @@ Hello! I am **Guimei Liu (刘桂梅)**, a PhD student in Astrophysics at the [Xi
 
 My research focuses on the **hierarchical formation and dynamical evolution of star clusters, spanning from the Milky Way to nearby galaxies**. I am deeply interested in the kinematic history of primordial open cluster groups and binary clusters, including their mutual tidal interactions and dynamical traceback. A core theme of my work is feedback-driven star formation, specifically how stellar feedback and sequential supernova explosions trigger star formation and shape large-scale gas structures in the interstellar medium.
 
+<div style="margin-top: 1.5em; margin-bottom: 2em;">
+  <a href="/talkmap.html" class="btn btn--primary" style="display: inline-flex; align-items: center; gap: 8px; border-radius: 6px; padding: 10px 20px; font-weight: 500; text-decoration: none; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.2s ease;">
+    <i class="fas fa-map-marked-alt"></i> See a map of all the places I've given a talk!
+  </a>
+</div>
+
 Recent Research
 ===============
 
