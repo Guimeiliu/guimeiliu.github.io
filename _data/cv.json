@@ -1,0 +1,151 @@
+{
+  "education": [
+    {
+      "institution": "University of Vienna",
+      "area": "Visiting Ph.D. in Astrophysics",
+      "endDate": "2025 - 2027 (expected)"
+    },
+    {
+      "institution": "Xinjiang Astronomical Observatory, CAS",
+      "area": "Ph.D. in Astrophysics",
+      "endDate": "2024 - 2027 (expected)"
+    },
+    {
+      "institution": "Shanghai Astronomical Observatory, CAS",
+      "area": "M.S. in Astrophysics"
+    },
+    {
+      "institution": "China West Normal University",
+      "area": "B.S. in Physics"
+    }
+  ],
+  "conferences_activities": [
+    {
+      "name": "Institute Seminar, University of Vienna",
+      "date": "2026-03",
+      "location": "Vienna, Austria",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "Workshop on Binary Stars and Related Science",
+      "date": "2025-07",
+      "location": "Urumqi, Xinjiang, China",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "IAUS 398: Compact Objects and Binaries in Dense Star Clusters",
+      "date": "2025-06",
+      "location": "Seoul, South Korea",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "2025 Annual Workshop on 'Structure, Formation and Evolution of Star Clusters'",
+      "date": "2025-03",
+      "location": "Dali, Yunnan, China",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "Annual Meeting of the Chinese Astronomical Society 2024",
+      "date": "2024-10",
+      "location": "Hangzhou, Zhejiang, China",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "The 15th Zhang Heng Academic Symposium",
+      "date": "2024-07",
+      "location": "Kunming, Yunnan, China",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "Cluster Formation and Evolution Seminar",
+      "date": "2023-03",
+      "location": "Shanghai, China",
+      "type": "Contributed Talk"
+    },
+    {
+      "name": "4th Shaw-IAU Workshop on Astronomy for Education",
+      "date": "2022-11",
+      "location": "Online",
+      "type": "Poster",
+      "title": "A hands-on project about instructing high school students in practice of astronomy science research"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Supervised high school students in astronomy research, providing guidance on scientific methods, data analysis, and project execution.",
+      "institution": "Shanghai Youth Science Innovation Practice Workstation",
+      "date": "2020 - 2023",
+      "role": "Mentor"
+    }
+  ],
+  "science_outreach": [
+    {
+      "activity": "Volunteer lecturer for The Sixth Scientific Community of the Chinese Academy of Sciences",
+      "date": "2023-10",
+      "description": "Science Outreach"
+    },
+    {
+      "activity": "Volunteer lecturer for The 19th Public Science Day of the Chinese Academy of Sciences",
+      "date": "2023-05",
+      "description": "Science Outreach"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Catalog of New Blue Stragglers in Open Clusters with Gaia DR3",
+      "publisher": "Research in Astronomy and Astrophysics",
+      "releaseDate": "2026-01",
+      "website": "https://doi.org/10.1088/1674-4527/ae1de1",
+      "summary": "Songmei Qin, Jing Zhong, Friedrich Anders, Lola Balaguer-Núñez, Chunyan Li, Yueyue Jiang, Guimei Liu, Tong Tang, Li Chen"
+    },
+    {
+      "name": "Binary clusters in the Galactic I: systematic identification and classification using Gaia DR3",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "2025-10",
+      "website": "https://doi.org/10.1051/0004-6361/202556299",
+      "summary": "Guimei Liu (刘桂梅), Yu Zhang (张余), Jing Zhong (钟靖) et al."
+    },
+    {
+      "name": "Insights into the 3D layered structure of nearby open clusters through N-body simulations",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "2025-05",
+      "website": "https://doi.org/10.1051/0004-6361/202554066",
+      "summary": "Kaixiang Lang, Yu Zhang, Hubiao Niu, Jayanand Maurya, Jinzhong Liu, Guimei Liu"
+    },
+    {
+      "name": "Formation and evolution of new primordial open cluster groups: Feedback-driven star formation",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "2025-04",
+      "website": "https://doi.org/10.1051/0004-6361/202452774",
+      "summary": "Guimei Liu (刘桂梅), Yu Zhang (张余), Jing Zhong (钟靖) et al."
+    },
+    {
+      "name": "Search for Open Cluster Groups in the Cygnus Region Based on Gaia DR3 Data",
+      "publisher": "Progress in Astronomy (天文学进展)",
+      "releaseDate": "2025-03",
+      "website": "https://d.wanfangdata.com.cn/periodical/twxjz202501009",
+      "summary": "Liu, G. (刘桂梅), Zhong, J. (钟靖), Shan, X., Qin, S., Li, C."
+    },
+    {
+      "name": "Unveiling the binary nature of NGC 2323",
+      "publisher": "Astronomy & Astrophysics",
+      "releaseDate": "2025-01",
+      "website": "https://doi.org/10.1051/0004-6361/202452962",
+      "summary": "Songmei Qin, Jing Zhong, Tong Tang, Yueyue Jiang, Long Wang, Kai Wu, Friedrich Anders, Lola Balaguer-Núñez, Guimei Liu, Chunyan Li, Jinliang Hou, Li Chen"
+    },
+    {
+      "name": "Recent Advances in the Study of Binary Star Clusters and Star Cluster Groups in the Milky Way",
+      "publisher": "Progress in Astronomy (天文学进展)",
+      "releaseDate": "2024-06",
+      "website": "https://d.wanfangdata.com.cn/periodical/twxjz202402001",
+      "summary": "SHAN Xing-mei, LIU Gui-mei, ZHONG Jing et al."
+    },
+    {
+      "name": "New Open-cluster Candidates Found in the Galactic Disk Using Gaia DR2/EDR3 Data",
+      "publisher": "The Astrophysical Journal Supplement Series",
+      "releaseDate": "2022-05",
+      "website": "https://doi.org/10.3847/1538-4365/ac5cbb",
+      "summary": "He, Z., Li, C., Zhong, J., Liu, G. et al."
+    }
+  ]
+}
