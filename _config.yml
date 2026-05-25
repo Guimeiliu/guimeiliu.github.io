@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Home"
+title                    : "Guimei Liu"
 title_separator          : "-"
 name                     : "Gui-mei Liu"
 description              : &description "Guimei Liu's academic portfolio – astrophysics student at Xinjiang Astronomical Observatory & University of Vienna"   # Update this with a general description of your site, this is the default if not overridden by a page
