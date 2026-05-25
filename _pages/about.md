@@ -32,7 +32,7 @@ Recent Research
   <div style="flex: 1; min-width: 280px; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: flex; flex-direction: column;">
     <a href="http://english.xao.cas.cn/news/202505/t20250521_1044195.html" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%;">
       <div style="width: 100%; height: 180px; background-color: #f8f9fa; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-        <img src="/images/aa52774-24-fig1.tif" alt="OC groups news cover" style="max-width: 100%; max-height: 100%; object-fit: contain; display: block;">
+        <img src="/images/aa52774-24-fig1.jpg" alt="OC groups news cover" style="max-width: 100%; max-height: 100%; object-fit: contain; display: block;">
       </div>
       <div style="padding: 14px 16px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0 0 6px 0; font-weight: 600; font-size: 0.95em; color: #333; line-height: 1.4;">Unveiling the Birth of Star Cluster Groups in the Milky Way</p>
